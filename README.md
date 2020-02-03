@@ -1,8 +1,8 @@
-# Crisp
+# Crisp-obfuscatedio
 
-A minimalist, responsive, and open-source two-column theme for the [Ghost](http://ghost.org) publishing platform by [Kathy Qian](http://kathyqian.com). Last tested with Ghost v2.1.1. For the last version tested with pre-2.0 Ghost releases, see the [ghost-sub-2](https://github.com/kathyqian/crisp/tree/ghost-sub-2) branch.
+A minimalist, responsive, and open-source two-column theme for the [Ghost](http://ghost.org) publishing platform by originally created by [Kathy Qian](http://kathyqian.com), modified and updated by [Ryan Roy](https://www.obfuscated.io). Last tested with Ghost v3.4.0.
 
-![Desktop Screenshot](https://raw.github.com/kathyqian/crisp/master/assets/screenshot-desktop.png)   
+![Desktop Screenshot](https://raw.github.com/obfuscatedio/crisp/master/assets/screenshot-desktop.png)   
 
 ### Required Steps for Installation
 
@@ -26,30 +26,28 @@ I have placed some common buttons in **follow.hbs**, with more options in the co
 
 ### Features, Changelog, and Technical Notes
 
-Below is a summary of updates since the initial release. If you need more detail, I suggest reading the [full commit history](https://github.com/kathyqian/crisp/commits/master/). For an idea of the roadmap and open issues, please refer to the [current open issues](https://github.com/kathyqian/crisp/issues?state=open).
+Below is a summary of updates since the initial release. If you need more detail, I suggest reading the [full commit history](https://github.com/obfuscated.io/crisp/commits/master/). For an idea of the roadmap and open issues, please refer to the [current open issues](https://github.com/obfuscatedio/crisp/issues?state=open).
 
-This theme is compatible with all modern versions of Chrome, Firefox, Safari, and IE9+.
+This is being updated and maintained to work with most modern browsers, compatibility is the users responsibility.
 
-**Version 1.0.0 &mdash; September 7, 2018**
+**Version 1.0.0 &mdash; February 2, 2020**
 
-* Updated for compatibility with Ghost v2+
-* Uses social media settings from dashboard
-* Upgraded to Disqus universal embed code
-
-Please see the [wiki](https://github.com/kathyqian/crisp/wiki/) for details regarding previous releases.
+* Updated for compatibility with Ghost v3.4.0
 
 ### Credits
 
+Original creator and maintainer [Kathy Qian](http://kathyqian.com).
+
 Many thanks to [@davegandy](http://twitter.com/davegandy) for the [Font Awesome](https://github.com/FortAwesome/Font-Awesome) icons used throughout the theme.
 
-Social sharing buttons are a modified version of the [Ridiculously Responsive Social Sharing Buttons](https://github.com/kni-labs/rrssb) by [@dbox](http://www.twitter.com/dbox) and [@seagoat](http://www.twitter.com/seagoat). Great job, guys!
+Social sharing buttons are a modified version of the [Ridiculously Responsive Social Sharing Buttons](https://github.com/kni-labs/rrssb) by [@dbox](http://www.twitter.com/dbox) and [@seagoat](http://www.twitter.com/seagoat).
 
 ### License
 
-This theme is licensed under the [MIT License](https://github.com/kathyqian/crisp/blob/master/license.txt). I would really appreciate it if you could keep at least one of the footer links intact though!
+This theme is licensed under the [MIT License](https://github.com/obfuscatedio/crisp/blob/master/license.txt). Please keep the footer links in tact!
 
 ### More Screenshots
 
-![Single Post Screenshot](https://raw.github.com/kathyqian/crisp/master/assets/screenshot-single.png)
+![Single Post Screenshot](https://raw.github.com/obfuscatedio/crisp/master/assets/screenshot-single.png)
 
-![Mobile Screenshot](https://raw.github.com/kathyqian/crisp/master/assets/screenshot-mobile.png)
+![Mobile Screenshot](https://raw.github.com/obfuscatedio/crisp/master/assets/screenshot-mobile.png)

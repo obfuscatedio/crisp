@@ -8,8 +8,8 @@ html, body {
 	line-height: 1.65em;
 	font-family: "Open Sans", sans-serif;
 	font-weight: 300;
-    background: #fff;
-	color: #444;
+    background: #000;
+	color: #fff;
 }
 html {
 	height: 100%;
@@ -87,7 +87,7 @@ img, iframe {
 a {
 	font-weight:700;
 	text-decoration:none;
-	color: #5cc265; /* Change Link Color */
+	color: #0099ff; /* Change Link Color */
 }
 a:hover {
 	text-decoration:underline;
